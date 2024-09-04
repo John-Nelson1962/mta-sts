@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: alt1.aspmx.technicalprogressltd.co.uk
+max_age: 604800
